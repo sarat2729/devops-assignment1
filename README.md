@@ -2,6 +2,7 @@
 
 A simple DevOps project to **containerize and deploy a 3-tier application** using Docker and Kubernetes (Minikube).
 
+![image alt](https://github.com/sarat2729/devops-assignment1/blob/24e3f21503270467b09bac85574806819907b7b4/Kubernetes%20architecture%20with%20Minikube%20deployment.png)
 ---
 
 ## 📌 What This Project Does
